@@ -1,6 +1,6 @@
 # Game of Life
 
-This is my implementation of the 'Game of Life' created by John Conway's in pure JavaScript
+This is my implementation of the 'Game of Life' created by John Conway's in JavaScript
 
 ![Alt Text](https://github.com/MShake/game-of-life/blob/master/sample.gif)
 
